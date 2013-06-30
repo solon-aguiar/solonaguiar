@@ -1,0 +1,18 @@
+{
+  "name": "solonaguiar",
+  "version": "0.0.0",
+  "description": "My new website (now in node!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:solonaguiar.git"
+  },
+  "keywords": [
+    "webpage"
+  ],
+  "author": "Solon Aguiar",
+  "license": "BSD"
+}
