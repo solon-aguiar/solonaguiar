@@ -14,5 +14,9 @@
     "webpage"
   ],
   "author": "Solon Aguiar",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "express": "*",
+    "jade": "*"
+  }
 }
