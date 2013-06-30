@@ -1,22 +1,13 @@
 {
-  "name": "solonaguiar",
-  "version": "0.0.0",
-  "description": "My new website (now in node!)",
-  "main": "index.js",
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "test": "test"
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@heroku.com:solonaguiar.git"
-  },
-  "keywords": [
-    "webpage"
-  ],
-  "author": "Solon Aguiar",
-  "license": "BSD",
   "dependencies": {
-    "express": "*",
-    "jade": "*"
+    "express": "3.3.1",
+    "jade": "*",
+    "less-middleware": "*"
   }
 }
