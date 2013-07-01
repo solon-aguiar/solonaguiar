@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="069C93EB-8A87-4F9D-AFFB-07BD4D352B1D">
+  <lastEdited clientType="local-build-20130217" date="2013-02-17 21:24:15 -0300"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Blog</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Postagem #1</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>sexta-feira, 3 de dezembro de 2010</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Essa postagem &#xE9; s&#xF3; para inaugurar o blog e o meu site. Espero que algu&#xE9;m, algum dia, possa ler essas coisas que eu escrevo e quem sabe, inclusive, tecer alguma opini&#xE3;o sobre. &#xC9; pedir demais?</richText>
+  </textBox>
+</content>

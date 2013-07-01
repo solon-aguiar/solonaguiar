@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="069C93EB-8A87-4F9D-AFFB-07BD4D352B1D">
+  <lastEdited clientType="local-build-20130217" date="2013-02-17 21:24:16 -0300"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Steel Series</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Postagem #3</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>s&#xE1;bado, 30 de julho de 2011</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Recentemente tive que trabalhar com Java Swing em uma aplica&#xE7;&#xE3;o que estava desenvolvendo. Eu j&#xE1; era familiarizado com essa tecnologia (at&#xE9; j&#xE1; dei uma aula sobre ela para o pessoal de Programa&#xE7;&#xE3;o 2 - embora n&#xE3;o tenha achado os slides). Entretanto, n&#xE3;o tinha trabalhado ainda com design de interfaces t&#xE3;o rico quanto o que precisei.&#xD;&#xD;O que t&#xED;nhamos em mente era algo para montar uma matriz que mostrasse as informa&#xE7;&#xF5;es de certas medidas. Uma coisa legal levantada foi usar uma s&#xE9;rie de medidores para mostrar essas medidas. &#xC0; primeira vista, obviamente, se pensa em implementar esses componentes na m&#xE3;o. Essa tarefa n&#xE3;o escalaria devido ao deadline que t&#xED;nhamos aproximando. A outra alternativa seria utilizar uma biblioteca j&#xE1; existente. Ap&#xF3;s algumas buscas e testes, decidimos utilizar a &lt;a href="http://harmoniccode.blogspot.com/"&gt;Steel Series&lt;/a&gt;. &#xC9; uma biblioteca muito legal que traz consigo uma gama de funcionalidades e op&#xE7;&#xF5;es de gadgets. Eles, inclusive, montaram demos muito legais (&lt;a href="http://idisk.mac.com/han.solo-Public/SteelSeries/test.jnlp"&gt;aqui&lt;/a&gt; e &lt;a href="http://idisk.mac.com/han.solo-Public/SteelSeries/testextras.jnlp"&gt;aqui&lt;/a&gt;). &#xD;&#xD;Trabalhar com a biblioteca n&#xE3;o foi complicado. Apesar de identificarmos alguns problemas menores em casos espec&#xED;ficos, ela funcionou conforme esperado. O mais interessante &#xE9; que ela foi tamb&#xE9;m implementada em Java Swing. Muito legal ver como o cara usou a tecnologia que ele conhecia para criar algo legal. No fim das contas, acredito que fizemos o que precis&#xE1;vamos (depois, &#xE9; claro, de apanhar um pouco).&#xD;&#xD;Fica a dica de biblioteca muito legal. &#xD3;timo trabalho.</richText>
+  </textBox>
+</content>
