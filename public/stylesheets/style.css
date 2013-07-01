@@ -9,8 +9,6 @@ a {
   bottom: 20px;
   background: white;
   width: 100%;
-  margin: 0;
-  padding: 0;
 }
 html {
   background: url("../images/bg.jpg") no-repeat center center fixed;
@@ -18,5 +16,5 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  overflow: hidden;
+  overflow: hidden !important;
 }
