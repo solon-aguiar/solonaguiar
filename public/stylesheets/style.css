@@ -23,19 +23,20 @@ body {
 }
 h1,
 h2 {
-  margin-top: 0px;
+  margin: 0px;
   color: white;
 }
 #name {
   opacity: 0.99;
   left: -275px;
   width: 275px;
-  margin-bottom: -99px;
-  padding-top: 45px;
+  margin-bottom: -105px;
+  padding-top: 52px;
   position: relative;
   background: black;
 }
 #content p {
+  margin-top: 5px;
   margin-bottom: 5px;
   color: white;
 }
