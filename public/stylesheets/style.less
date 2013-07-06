@@ -11,6 +11,20 @@ body {
   font-family: "Century Gothic", "Lucida Grande", Arial, sans-serif;
   font-weight: normal;
   font-size: 22px;
+  color: white;
+}
+
+.me {
+  top: 40px;
+}
+
+#info {
+  float: right;
+  background: white;
+  width: 450px;
+  height: 500px;
+  margin-right: 100px;
+  color: black;
 }
 
 #warning {
@@ -24,7 +38,6 @@ body {
 
 h1, h2 {
   margin: 0px;
-  color: white;
 }
 
 #name {
@@ -35,10 +48,16 @@ h1, h2 {
   background: black;
 }
 
+.me p {
+  font-size: 14px;
+  text-align: justify;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 #content p {
   margin-top: 5px;
   margin-bottom: 5px;
-  color: white;
 }
 
 #content a {
@@ -46,13 +65,20 @@ h1, h2 {
   text-decoration: none;
 }
 
-#bg {
+.bg {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: url("../images/bg.jpg") no-repeat center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+}
+
+#home {
+  background: url("../images/bg.jpg") no-repeat center center fixed;
+}
+
+#about {
+  background: url("../images/me.jpg") no-repeat center center fixed;
 }
